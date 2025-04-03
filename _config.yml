@@ -141,7 +141,7 @@ content:
               - COMP1000 - 소프트웨어 공학용 수학
 
   - title: Qualifications # Title for the section
-    layout: text # Type of content section (list/text)
+    layout: list # Type of content section (list/text)
     content:
       - layout: left
         - 정보처리 산업기사   (2024.12)
@@ -150,7 +150,7 @@ content:
         - ITQ 한글 엑셀      (2022.06)
 
   - title: Projects
-    layout: text
+    layout: list
     content: 
       - layout: midle-top
         title: 전자결재
