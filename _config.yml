@@ -126,7 +126,7 @@ content:
         title: 국가평생교육진흥원 대학교
         caption: 2022 - 2025 (8월 졸업 예정)
         description: |
-            - 컴퓨터공학
+            &nbsp- 컴퓨터공학
       - layout: left
         title: 더조은 아카데미
         caption: 2022.08 - 2023.11 
@@ -139,7 +139,8 @@ content:
         description: |
               - COMP1500 - 실무 프로그래밍 입문 (C#)
               - COMP1000 - 소프트웨어 공학용 수학
-              ![Alt text](/images/CalculatorImg.png)
+        image: |
+          ![Alt text](/images/CalculatorImg.png)
 
   - title: Qualifications # Title for the section
     layout: text # Type of content section (list/text)
@@ -152,19 +153,21 @@ content:
   - title: Projects
     layout: text
     content: | 
-        - ###전자결재
+        ### - 전자결재
         <mark>C#</mark> <mark>Vue.js</mark>
         <div>
           <img src="images/approvalEx.gif" alt="전자결재 이미지">
         </div>   
+        <br>
 
-        - ###Rock Scissor Paper Game
+        - ### Rock Scissor Paper Game
         <mark>C++</mark>
         <div>
           <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
         </div>   
+        <br>
 
-        - ###Calculator
+        ### Calculator
         <mark>C#</mark> <mark>Vue.js</mark>
         <div>
           <img src="/images/CalculatorImg.png" alt="계산기 이미지">
