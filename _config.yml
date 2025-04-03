@@ -163,15 +163,14 @@ content:
         description: |
           2022.06
 
-      - layout: left
-        name: Institution 2
-        dates: 2013 - 2016
-        qualification: A levels
-        description: >
-          Description of qualification
+
+  - title: Section Name
+    layout: text (options: list, text)
+    content: | # this will include new lines to allow paragraphs
+      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
   - title: Projects
-    layout: list
+    layout: text
     content: 
       - layout: midle-top
         title: 전자결재
@@ -199,36 +198,7 @@ content:
             <img src="/images/CalculatorImg.png" alt="계산기 이미지">
           </div>
 
-  - title: Test layout
-    layout: list
-    content:
-    - layout: right
-      company: Company 1
-      link: https://google.com
-      job_title: Job title 1
-      dates: November 2016 - present
-      quote: >
-        Short description of the company (optional)
-        description: >
-        Description of role
-
-    - layout: top
-      company: Company 2
-      job_title: Job title 1
-      dates: January 2014 - November 2016
-      description: >
-        Description of role
-
-    - layout: top-right
-      company: Company 3
-      jobs:
-        - title: Job title 1
-          dates: February 2013 - December 2013
-        - title: Job title 2
-          dates: June 2012 - February 2013
-      description: >
-        Description of role
-
+  
 
 # Footer
 footer_show_references: true
