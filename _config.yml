@@ -82,10 +82,9 @@ content:
         quote: >
           삼성화재 애니핏 PRO 서비스 고도화
         description: | # this will include new lines to allow paragraphs
-            <div style="margin-left: 20px;">
+            <p style="margin-left: 20px;">
               <mark>Java</mark> <mark>Vue.js</mark> <mark>Framework</mark>
-            </div>
-            <mark>Java</mark> <mark>Vue.js</mark> <mark>삼성화재 Framework</mark>
+            </p>
             - 약관 관리 페이지 화면 개발 
             - 약관 관리 페이지 API 개발 
             - B2C 서비스 테스트 시나리오 작성, 테스트
@@ -97,11 +96,13 @@ content:
         quote: >
           LS 통합결재 시스템 신규 구축
         description: | # this will include new lines to allow paragraphs
-            <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
-            - 양식 리스트 화면 개발
-            - 양식 리스트 API 개발
-            - 양식 기안 API 개발
-            - 관리자 페이지 화면 개발 
+            <p style="margin-left: 20px;">
+              <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
+            </p>
+            - 양식 리스트 화면 개발  <mark>Vue.js</mark>
+            - 양식 리스트 API 개발   <mark>C#</mark> <mark>.Net Core</mark>
+            - 양식 기안 API 개발     <mark>C#</mark> <mark>.Net Core</mark>
+            - 관리자 페이지 화면 개발 <mark>Vue.js</mark> 
             
 
       - layout: left
@@ -112,7 +113,9 @@ content:
           LS 통합결재 시스템 신규 구축
 
         description: | # this will include new lines to allow paragraphs
-            <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
+            <p style="margin-left: 20px; font-size: 1rem; font-weight: 500;">
+              <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
+            </p>
             - 양식 기안 화면 개발
             - 양식 기안 API 개발
             - 양식 리스트 화면 개발
