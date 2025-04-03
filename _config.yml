@@ -82,6 +82,9 @@ content:
         quote: >
           삼성화재 애니핏 PRO 서비스 고도화
         description: | # this will include new lines to allow paragraphs
+            <div style="text-align: center;">
+              <mark>Java</mark> <mark>Vue.js</mark> <mark>Framework</mark>
+            </div>
             <mark>Java</mark> <mark>Vue.js</mark> <mark>삼성화재 Framework</mark>
             - 약관 관리 페이지 화면 개발 
             - 약관 관리 페이지 API 개발 
@@ -93,7 +96,6 @@ content:
         caption: JULY 2023 - JANUARY 2024
         quote: >
           LS 통합결재 시스템 신규 구축
-          ![Alt text](/images/CalculatorImg.png)
         description: | # this will include new lines to allow paragraphs
             <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             - 양식 리스트 화면 개발
@@ -105,9 +107,7 @@ content:
       - layout: left
         title: 자사 통합결재
         sub_title: API, VIEW 개발
-        # caption: FEBRUARY 2024 - MARCH 2024
-        caption: | 
-          ![Alt text](/images/CalculatorImg.png)
+        caption: FEBRUARY 2024 - MARCH 2024
         quote: >
           LS 통합결재 시스템 신규 구축
 
@@ -127,7 +127,7 @@ content:
         title: 국가평생교육진흥원 대학교
         caption: 2022 - 2025 (8월 졸업 예정)
         description: |
-            - 컴퓨터공학
+            - 컴퓨터 공학과
       - layout: left
         title: 더조은 아카데미
         caption: 2022.08 - 2023.11 
