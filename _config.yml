@@ -143,9 +143,8 @@ content:
   - title: Qualifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left 
-        title : 자격증
-        items:
+      - layout: midle-top
+        description: |
           - 정보처리 산업기사   (2024.12)
           - 네트워크 관리사 2급 (2025.01)
           - 컴퓨터 활용능력 1급 (2024.07)
@@ -158,12 +157,10 @@ content:
         title: 전자결재
         caption: <mark>C#</mark> <mark>Vue.js</mark>
         image: images/approvalEx.gif
-        description: >
-          결재 프로세스를 위한 데스크탑 기반 시스템입니다.
-        # content: |
-        #   <div>
-        #     <img src="images/approvalEx.gif" alt="전자결재 이미지">
-        #   </div>
+      - layout: text
+          <div>
+            <img src="images/approvalEx.gif" alt="전자결재 이미지">
+          </div>
 
       - layout: midle-top
         title: Rock Scissor Paper Game 
