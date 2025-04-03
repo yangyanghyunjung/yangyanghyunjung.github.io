@@ -95,7 +95,7 @@ content:
         quote: >
           LS 통합결재 시스템 신규 구축
         description: | # this will include new lines to allow paragraphs
-            **Tech Stack**
+            \t**Tech Stack**
             <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             - 양식 리스트 화면 개발
             - 양식 리스트 API 개발
@@ -139,41 +139,40 @@ content:
         description: |
               - COMP1500 - 실무 프로그래밍 입문 (C#)
               - COMP1000 - 소프트웨어 공학용 수학
-        image: |
-          ![Alt text](/images/CalculatorImg.png)
+              ![Alt text](/images/CalculatorImg.png)
 
   - title: Qualifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-        - **정보처리 산업기사** 2024.12
-        - **네트워크 관리사 2급** 2025.01
-        - 컴퓨터 활용능력 1급 2024.07
-        - ITQ 한글 엑셀 2022.06
+        - **정보처리 산업기사** \t\t2024.12
+        - **네트워크 관리사 2급** \t\t2025.01
+        - 컴퓨터 활용능력 1급 \t\t2024.07
+        - ITQ 한글 엑셀 \t\t2022.06
 
   - title: Projects
     layout: text
     content: | 
-        ### - 전자결재
+        - **전자결재**
         <mark>C#</mark> <mark>Vue.js</mark>
         <div>
           <img src="images/approvalEx.gif" alt="전자결재 이미지">
         </div>   
         <br>
 
-        - ### Rock Scissor Paper Game
+        - **Rock Scissor Paper Game**
         <mark>C++</mark>
         <div>
           <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
         </div>   
         <br>
 
-        ### Calculator
+        - **Calculator**
         <mark>C#</mark> <mark>Vue.js</mark>
         <div>
           <img src="/images/CalculatorImg.png" alt="계산기 이미지">
         </div>
 
-        ![Alt text](/images/CalculatorImg.png)
+  # ![Alt text](/images/CalculatorImg.png)
 
   
 
