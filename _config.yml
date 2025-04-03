@@ -157,17 +157,17 @@ content:
       - layout: midle-top
         title: 전자결재
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        image: <img src="images/approvalEx.gif" >
+        image: "images/approvalEx.gif" 
 
       - layout: midle-top
         title: Rock Scissor Paper Game 
         caption: <mark>C++</mark>
-        image: <img src="images/RocScissorPaper.gif" >
+        image: "images/RocScissorPaper.gif" 
 
       - layout: midle-top
         title: Calculator
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        image: <img src="images/CalculatorImg.png" >
+        image: "img src="images/CalculatorImg.png" 
 
 
 # Footer
