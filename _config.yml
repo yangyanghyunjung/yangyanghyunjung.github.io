@@ -157,19 +157,20 @@ content:
       - layout: midle-top
         title: 전자결재
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        image: "images/approvalEx.gif" 
-        content: |
-          <div>
-          <img src="images/approvalEx.gif" alt="전자결재 이미지">
-          </div>
+        image: images/approvalEx.gif
+        description: >
+          결재 프로세스를 위한 데스크탑 기반 시스템입니다.
+        # content: |
+        #   <div>
+        #     <img src="images/approvalEx.gif" alt="전자결재 이미지">
+        #   </div>
 
       - layout: midle-top
         title: Rock Scissor Paper Game 
         caption: <mark>C++</mark>
-        image: "images/RocScissorPaper.gif" 
         content: |
           <div>
-          <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
+            <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
           </div>
 
       - layout: midle-top
@@ -178,7 +179,7 @@ content:
         # image: "images/CalculatorImg.png" 
         content: |
           <div>
-          <img src="/images/approvalEx.gif" alt="계산기기 이미지">
+            <img src="/images/CalculatorImg.png" alt="계산기 이미지">
           </div>
 
 
