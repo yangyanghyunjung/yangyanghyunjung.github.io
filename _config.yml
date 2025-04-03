@@ -82,7 +82,6 @@ content:
         quote: >
           삼성화재 애니핏 PRO 서비스 고도화
         description: | # this will include new lines to allow paragraphs
-            **Tech Stack**
             <mark>Java</mark> <mark>Vue.js</mark> <mark>삼성화재 Framework</mark>
             - 약관 관리 페이지 화면 개발 
             - 약관 관리 페이지 API 개발 
@@ -94,8 +93,8 @@ content:
         caption: JULY 2023 - JANUARY 2024
         quote: >
           LS 통합결재 시스템 신규 구축
+          ![Alt text](/images/CalculatorImg.png)
         description: | # this will include new lines to allow paragraphs
-            \t**Tech Stack**
             <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             - 양식 리스트 화면 개발
             - 양식 리스트 API 개발
@@ -106,11 +105,13 @@ content:
       - layout: left
         title: 자사 통합결재
         sub_title: API, VIEW 개발
-        caption: FEBRUARY 2024 - MARCH 2024
+        # caption: FEBRUARY 2024 - MARCH 2024
+        caption: | 
+          ![Alt text](/images/CalculatorImg.png)
         quote: >
           LS 통합결재 시스템 신규 구축
+
         description: | # this will include new lines to allow paragraphs
-            **Tech Stack**
             <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             - 양식 기안 화면 개발
             - 양식 기안 API 개발
@@ -126,7 +127,7 @@ content:
         title: 국가평생교육진흥원 대학교
         caption: 2022 - 2025 (8월 졸업 예정)
         description: |
-            &nbsp- 컴퓨터공학
+            - 컴퓨터공학
       - layout: left
         title: 더조은 아카데미
         caption: 2022.08 - 2023.11 
@@ -139,15 +140,15 @@ content:
         description: |
               - COMP1500 - 실무 프로그래밍 입문 (C#)
               - COMP1000 - 소프트웨어 공학용 수학
-              ![Alt text](/images/CalculatorImg.png)
+              
 
   - title: Qualifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-        - **정보처리 산업기사** \t\t2024.12
-        - **네트워크 관리사 2급** \t\t2025.01
-        - 컴퓨터 활용능력 1급 \t\t2024.07
-        - ITQ 한글 엑셀 \t\t2022.06
+        - **정보처리 산업기사** 2024.12
+        - **네트워크 관리사 2급** 2025.01
+        - 컴퓨터 활용능력 1급 2024.07
+        - ITQ 한글 엑셀 2022.06
 
   - title: Projects
     layout: text
