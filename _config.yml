@@ -82,7 +82,7 @@ content:
         quote: >
           삼성화재 애니핏 PRO 서비스 고도화
         description: | # this will include new lines to allow paragraphs
-            <div style="text-align: center;">
+            <div style="margin-left: 20px;">
               <mark>Java</mark> <mark>Vue.js</mark> <mark>Framework</mark>
             </div>
             <mark>Java</mark> <mark>Vue.js</mark> <mark>삼성화재 Framework</mark>
