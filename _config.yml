@@ -158,16 +158,28 @@ content:
         title: 전자결재
         caption: <mark>C#</mark> <mark>Vue.js</mark>
         image: "images/approvalEx.gif" 
+        content: |
+          <div>
+          <img src="images/approvalEx.gif" alt="전자결재 이미지">
+          </div>
 
       - layout: midle-top
         title: Rock Scissor Paper Game 
         caption: <mark>C++</mark>
         image: "images/RocScissorPaper.gif" 
+        content: |
+          <div>
+          <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
+          </div>
 
       - layout: midle-top
         title: Calculator
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        image: "images/CalculatorImg.png" 
+        # image: "images/CalculatorImg.png" 
+        content: |
+          <div>
+          <img src="/images/approvalEx.gif" alt="계산기기 이미지">
+          </div>
 
 
 # Footer
