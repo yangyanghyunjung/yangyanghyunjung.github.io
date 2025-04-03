@@ -83,10 +83,10 @@ content:
           삼성화재 애니핏 PRO 서비스 고도화
         description: | # this will include new lines to allow paragraphs
             <p style="margin-left: 20px;">
-              <mark>Java</mark> <mark>Vue.js</mark> <mark>Framework</mark>
+              <mark>Java</mark> <mark>Vue.js</mark> <mark>SamsungFire Framework</mark>
             </p>
-            - 약관 관리 페이지 화면 개발 
-            - 약관 관리 페이지 API 개발 
+            - B2B 약관 관리 페이지 화면 개발 (Vue.js)
+            - B2B 약관 관리 페이지 API 개발 (Java)
             - B2C 서비스 테스트 시나리오 작성, 테스트
 
       - layout: left
@@ -99,10 +99,10 @@ content:
             <p style="margin-left: 20px;">
               <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             </p>
-            - 양식 리스트 화면 개발  <mark>Vue.js</mark>
-            - 양식 리스트 API 개발   <mark>C#</mark> <mark>.Net Core</mark>
-            - 양식 기안 API 개발     <mark>C#</mark> <mark>.Net Core</mark>
-            - 관리자 페이지 화면 개발 <mark>Vue.js</mark> 
+            - 결재 양식 리스트 화면 개발 (Vue.js)
+            - 결재 양식 리스트 API 개발 (.Net Core)
+            - Legacy 결재 양식 (ASP.NET) -> Vue.js로 변경     
+            - 관리자 페이지 화면 개발
             
 
       - layout: left
@@ -113,14 +113,14 @@ content:
           LS 통합결재 시스템 신규 구축
 
         description: | # this will include new lines to allow paragraphs
-            <p style="margin-left: 20px; font-size: 1rem; font-weight: 500;">
+            <p style="margin-left: 20px;"">
               <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             </p>
-            - 양식 기안 화면 개발
-            - 양식 기안 API 개발
-            - 양식 리스트 화면 개발
-            - 양식 리스트 API 개발
-            - 양식 기안 API 개발
+            - 결재 양식 기안 화면 개발 (Vue.js)
+            - 결재 양식 기안 API 개발 (.Net Core)
+            - 결재 양식 리스트 화면 개발 (Vue.js)
+            - 결재 양식 리스트 API 개발 (.Net Core)
+            - 결재 양식 기안 API 개발 (.Net Core)
             
 
   - title: Education # Title for the section
