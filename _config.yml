@@ -171,32 +171,25 @@ content:
 
   - title: Projects
     layout: text
-    content: 
-      - layout: midle-top
-        title: 전자결재
-        caption: <mark>C#</mark> <mark>Vue.js</mark>
-        image: images/approvalEx.gif
-      - layout: text
-          <div>
-            <img src="images/approvalEx.gif" alt="전자결재 이미지">
-          </div>
+    content: | 
 
-      - layout: midle-top
-        title: Rock Scissor Paper Game 
-        caption: <mark>C++</mark>
-        content: |
-          <div>
-            <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
-          </div>
+        > - **전자결재**
+        <mark>C#</mark> <mark>Vue.js</mark>
+        <div>
+          <img src="images/approvalEx.gif" alt="전자결재 이미지">
+        </div>
 
-      - layout: midle-top
-        title: Calculator
-        caption: <mark>C#</mark> <mark>Vue.js</mark>
-        # image: "images/CalculatorImg.png" 
-        content: |
-          <div>
-            <img src="/images/CalculatorImg.png" alt="계산기 이미지">
-          </div>
+        > - **Rock Scissor Paper Game**
+        <mark>C++</mark>
+        <div>
+          <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
+        </div>
+
+        > - **Calculator**
+        <mark>C#</mark> <mark>Vue.js</mark>
+        <div>
+          <img src="/images/CalculatorImg.png" alt="계산기 이미지">
+        </div>
 
   
 
