@@ -200,7 +200,7 @@ content:
           </div>
 
   - title: Test layout
-    layout:list
+    layout: list
     content:
     - layout: right
       company: Company 1
