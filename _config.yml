@@ -143,12 +143,32 @@ content:
   - title: Qualifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: midle-top
+      - layout: left
+        title: 정보처리 산업기사
         description: |
-          - 정보처리 산업기사   (2024.12)
-          - 네트워크 관리사 2급 (2025.01)
-          - 컴퓨터 활용능력 1급 (2024.07)
-          - ITQ 한글 엑셀      (2022.06)
+          2024.12
+
+      - layout: left
+        title: 네트워크 관리사 2급
+        description: |
+          2025.01
+
+      - layout: left
+        caption: 컴퓨터 활용능력 1급
+        description: |
+          2024.07
+
+      - layout: left
+        title: ITQ 한글 엑셀
+        description: |
+          2022.06
+
+      - layout: left
+        name: Institution 2
+        dates: 2013 - 2016
+        qualification: A levels
+        description: >
+          Description of qualification
 
   - title: Projects
     layout: list
@@ -178,6 +198,34 @@ content:
           <div>
             <img src="/images/CalculatorImg.png" alt="계산기 이미지">
           </div>
+
+  # - title: Test layout
+  - layout: right
+    company: Company 1
+    link: https://google.com
+    job_title: Job title 1
+    dates: November 2016 - present
+    quote: >
+    Short description of the company (optional)
+    description: >
+      Description of role
+
+  - layout: top
+    company: Company 2
+    job_title: Job title 1
+    dates: January 2014 - November 2016
+    description: >
+      Description of role
+
+  - layout: top-right
+    company: Company 3
+    jobs:
+      - title: Job title 1
+        dates: February 2013 - December 2013
+      - title: Job title 2
+        dates: June 2012 - February 2013
+    description: >
+      Description of role
 
 
 # Footer
