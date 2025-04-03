@@ -143,11 +143,13 @@ content:
   - title: Qualifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        - 정보처리 산업기사   (2024.12)
-        - 네트워크 관리사 2급 (2025.01)
-        - 컴퓨터 활용능력 1급 (2024.07)
-        - ITQ 한글 엑셀      (2022.06)
+      - layout: left 
+        title : 자격증
+        items:
+          - 정보처리 산업기사   (2024.12)
+          - 네트워크 관리사 2급 (2025.01)
+          - 컴퓨터 활용능력 1급 (2024.07)
+          - ITQ 한글 엑셀      (2022.06)
 
   - title: Projects
     layout: list
@@ -155,23 +157,17 @@ content:
       - layout: midle-top
         title: 전자결재
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        <div>
-          <img src="images/approvalEx.gif" >
-        </div>
+        image: <img src="images/approvalEx.gif" >
 
       - layout: midle-top
         title: Rock Scissor Paper Game 
         caption: <mark>C++</mark>
-        <div>
-          <img src="images/RocScissorPaper.gif" >
-        </div>
+        image: <img src="images/RocScissorPaper.gif" >
 
       - layout: midle-top
         title: Calculator
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        <div>
-          <img src="images/CalculatorImg.png" >
-        </div>
+        image: <img src="images/CalculatorImg.png" >
 
 
 # Footer
