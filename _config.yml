@@ -167,7 +167,7 @@ content:
       - layout: midle-top
         title: Calculator
         caption: <mark>C#</mark> <mark>Vue.js</mark>
-        image: "img src="images/CalculatorImg.png" 
+        image: "images/CalculatorImg.png" 
 
 
 # Footer
