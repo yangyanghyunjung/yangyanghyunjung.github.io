@@ -50,6 +50,7 @@ additional_links:
 about_profile_image: images/profileImg.jpg
 about_content: | # this will include new lines to allow paragraphs
   빠르게 배우고 이를 곧바로 성과로 연결하는 데 강점을 가진 백엔드 개발자입니다. 새로운 기술에 대한 흥미와 높은 이해력을 바탕으로 학습 곡선이 O(n!)만큼 빠르며, Java와 C#을 중심으로 다양한 프로젝트를 수행해왔습니다. 작은 팀에서 여러 역할을 주도적으로 소화하며 성장해왔고, 항상 더 나은 코드를 고민합니다.
+  <br><br>
 
   취미: <mark>개발</mark> and <mark>공부</mark> and <mark>마라탕 먹기</mark>
 
@@ -58,11 +59,11 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: LS 통합결재
+        title: (주)LS 통합결재
         sub_title: API, VIEW 개발
         caption: JULY 2023 - JANUARY 2024
         quote: >
-          LS 통합결재 시스템 신규 구축
+          (주)LS 통합결재 시스템 신규 구축
         description: | # this will include new lines to allow paragraphs
             <p style="margin-left: 20px;">
               <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
@@ -78,7 +79,7 @@ content:
         sub_title: API, VIEW 개발
         caption: FEBRUARY 2024 - MARCH 2024
         quote: >
-          LS 통합결재 시스템 신규 구축
+          자사 통합결재 시스템 신규 구축
 
         description: | # this will include new lines to allow paragraphs
             <p style="margin-left: 20px;">
@@ -92,7 +93,7 @@ content:
 
       - layout: left
         title: 삼성화재 애니핏
-        sub_title: Java 개발자
+        sub_title: API, VIEW 개발
         caption: November 2022 - March 2023
         quote: >
           삼성화재 애니핏 PRO 서비스 고도화
@@ -139,23 +140,23 @@ content:
     layout: text
     content: | 
         - **전자결재**
-        <mark>C#</mark> <mark>Vue.js</mark>
+        <mark>Java</mark> <mark>Spring</mark> <mark>Vue.js</mark>
         <div>
           <img src="images/approvalEx.gif" alt="전자결재 이미지">
         </div>   
         <br>
 
-        - **Rock Scissor Paper Game**
-        <mark>C++</mark>
-        <div style="text-aligin: center;">
-          <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
+       - **Rock Scissor Paper Console Game**  
+        <mark>C++</mark>  
+        <div style="text-align: center;">
+          <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지" style="display: block; margin: auto;">
         </div>   
         <br>
 
-        - **Calculator**
-        <mark>C#</mark> <mark>Vue.js</mark>
-        <div style="text-aligin: center;">
-          <img src="/images/CalculatorImg.png" alt="계산기 이미지">
+      - **Calculator**  
+        <mark>C#</mark> <mark>.Net Core</mark> <mark>Vue.js</mark>  
+        <div style="text-align: center;">
+          <img src="images/CalculatorImg.png" alt="계산기 이미지" style="display: block; margin: auto;">
         </div>
 
   # ![Alt text](/images/CalculatorImg.png)
