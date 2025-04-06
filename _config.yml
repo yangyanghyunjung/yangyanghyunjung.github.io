@@ -9,7 +9,8 @@ version: 2
 name: 양현정
 title: 백엔드 엔지니어
 email: hyunjungyang@gmail.com
-website: https://github.com/yangyanghyunjung
+# website: https://github.com/yangyanghyunjung
+tel: 010-3942-4317
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,47 +49,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profileImg.jpg
 about_content: | # this will include new lines to allow paragraphs
-  내 설명 뿌엥 나는 냔냔뽄띠
+  빠르게 배우고 이를 곧바로 성과로 연결하는 데 강점을 가진 백엔드 개발자입니다. 새로운 기술에 대한 흥미와 높은 이해력을 바탕으로 학습 곡선이 O(n!)만큼 빠르며, Java와 C#을 중심으로 다양한 프로젝트를 수행해왔습니다. 작은 팀에서 여러 역할을 주도적으로 소화하며 성장해왔고, 항상 더 나은 코드를 고민합니다.
 
   취미: <mark>개발</mark> and <mark>공부</mark> and <mark>마라탕 먹기</mark>
 
-# content:
-#   - title: Work Expeirences # Title for the section
-#     layout: list # Type of content section (list/text)
-#     content:
-#       - layout: top-middle
-#         title: Super awesome project
-#         link: github.com/sproogen
-#         # link_text: Project Website
-#         additional_links:
-#           - title:  sproogen/modern-resume-theme
-#             icon: fab fa-github
-#             url: github.com/sproogen/modern-resume-theme
-#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-#           #   icon: fab fa-github
-#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-#         quote: >
-#           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-#         description: | # this will include new lines to allow paragraphs
-#           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 content:
-  - title: Work Expeirences # Title for the section
+  - title: Work Expeirence # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: 삼성화재 애니핏
-        sub_title: Java 개발자
-        caption: November 2022 - March 2023
-        quote: >
-          삼성화재 애니핏 PRO 서비스 고도화
-        description: | # this will include new lines to allow paragraphs
-            <p style="margin-left: 20px;">
-              <mark>Java</mark> <mark>Vue.js</mark> <mark>SamsungFire Framework</mark>
-            </p>
-            - B2B 약관 관리 페이지 화면 개발 (Vue.js)
-            - B2B 약관 관리 페이지 API 개발 (Java)
-            - B2C 서비스 테스트 시나리오 작성, 테스트
-
       - layout: left
         title: LS 통합결재
         sub_title: API, VIEW 개발
@@ -113,7 +81,7 @@ content:
           LS 통합결재 시스템 신규 구축
 
         description: | # this will include new lines to allow paragraphs
-            <p style="margin-left: 20px;"">
+            <p style="margin-left: 20px;">
               <mark>C#</mark> <mark>Vue.js</mark> <mark>Prime Vue</mark> <mark>.Net Core</mark>
             </p>
             - 결재 양식 기안 화면 개발 (Vue.js)
@@ -121,6 +89,20 @@ content:
             - 결재 양식 리스트 화면 개발 (Vue.js)
             - 결재 양식 리스트 API 개발 (.Net Core)
             - 결재 양식 기안 API 개발 (.Net Core)
+
+      - layout: left
+        title: 삼성화재 애니핏
+        sub_title: Java 개발자
+        caption: November 2022 - March 2023
+        quote: >
+          삼성화재 애니핏 PRO 서비스 고도화
+        description: | # this will include new lines to allow paragraphs
+            <p style="margin-left: 20px;">
+              <mark>Java</mark> <mark>Vue.js</mark> <mark>SamsungFire Framework</mark>
+            </p>
+            - B2B 약관 관리 페이지 화면 개발 (Vue.js)
+            - B2B 약관 관리 페이지 API 개발 (Java)
+            - B2C 서비스 테스트 시나리오 작성, 테스트
             
 
   - title: Education # Title for the section
@@ -130,7 +112,7 @@ content:
         title: 국가평생교육진흥원 대학교
         caption: 2022 - 2025 (8월 졸업 예정)
         description: |
-            - 컴퓨터 공학과
+            - Bachelor of Computer Engineering
       - layout: left
         title: 더조은 아카데미
         caption: 2022.08 - 2023.11 
@@ -145,7 +127,7 @@ content:
               - COMP1000 - 소프트웨어 공학용 수학
               
 
-  - title: Qualifications # Title for the section
+  - title: Certifications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
         - **정보처리 산업기사** 2024.12
@@ -165,14 +147,14 @@ content:
 
         - **Rock Scissor Paper Game**
         <mark>C++</mark>
-        <div>
+        <div style="text-aligin: center;">
           <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지">
         </div>   
         <br>
 
         - **Calculator**
         <mark>C#</mark> <mark>Vue.js</mark>
-        <div>
+        <div style="text-aligin: center;">
           <img src="/images/CalculatorImg.png" alt="계산기 이미지">
         </div>
 
