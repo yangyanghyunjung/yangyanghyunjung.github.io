@@ -146,14 +146,14 @@ content:
         </div>   
         <br>
 
-       - **Rock Scissor Paper Console Game**  
+        - **Rock Scissor Paper Console Game**  
         <mark>C++</mark>  
         <div style="text-align: center;">
           <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지" style="display: block; margin: auto;">
         </div>   
         <br>
 
-      - **Calculator**  
+        - **Calculator**  
         <mark>C#</mark> <mark>.Net Core</mark> <mark>Vue.js</mark>  
         <div style="text-align: center;">
           <img src="images/CalculatorImg.png" alt="계산기 이미지" style="display: block; margin: auto;">
