@@ -147,15 +147,15 @@ content:
         </div>   
         <br>
 
-        - **가위바위보 Console Game**  
-        <mark>C++</mark> <br>  
+        - **가위바위보 콘솔게임**
+        <mark>C++</mark> <br>
         <a href="https://github.com/yangyanghyunjung/rockPaperScissors.git">source code</a>
         <div style="text-align: center;">
           <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지" style="display: block; margin: auto;">
         </div>   
         <br>
 
-        - **Calculator**  
+        - **big number 계산기**
         <mark>C#</mark> <mark>Vue.js</mark>  
         <div style="text-align: center;">
           <img src="images/CalculatorImg.png" alt="계산기 이미지" style="display: block; margin: auto;">
