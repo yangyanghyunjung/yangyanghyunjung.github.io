@@ -17,7 +17,7 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  yangyanghyunjung
+# github_username:  yangyanghyunjung
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -133,29 +133,31 @@ content:
     content: |
         - **정보처리 산업기사** 2024.12
         - **네트워크 관리사 2급** 2025.01
-        - 컴퓨터 활용능력 1급 2024.07
-        - ITQ 한글 엑셀 2022.06
+        - **컴퓨터 활용능력 1급** 2024.07
+        - **ITQ 한글 엑셀** 2022.06
 
   - title: Projects
     layout: text
     content: | 
-        - **전자결재**
-        <mark>Java</mark> <mark>Spring</mark> <mark>Vue.js</mark>
-        <div>
+        <div style="text-align: center;">
+          - **전자결재**
+          <a href="https://github.com/yangyanghyunjung/electronicApproval.git">source code</a>
+          <mark>Java</mark> <mark>Spring</mark> <mark>Vue.js</mark>
           <img src="images/approvalEx.gif" alt="전자결재 이미지">
         </div>   
         <br>
 
-        - **Rock Scissor Paper Console Game**  
-        <mark>C++</mark>  
         <div style="text-align: center;">
+           - **가위바위보 Console Game**  
+           <a href="https://github.com/yangyanghyunjung/rockPaperScissors.git">source code</a>
+          <mark>C++</mark>  
           <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지" style="display: block; margin: auto;">
         </div>   
         <br>
 
-        - **Calculator**  
-        <mark>C#</mark> <mark>.Net Core</mark> <mark>Vue.js</mark>  
         <div style="text-align: center;">
+          - **Calculator**  
+          <mark>C#</mark> <mark>Vue.js</mark>  
           <img src="images/CalculatorImg.png" alt="계산기 이미지" style="display: block; margin: auto;">
         </div>
 
