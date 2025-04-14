@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
   빠르게 배우고 이를 곧바로 성과로 연결하는 데 강점을 가진 백엔드 개발자입니다. 새로운 기술에 대한 흥미와 높은 이해력을 바탕으로 학습 곡선이 O(n!)만큼 빠르며, Java와 C#을 중심으로 다양한 프로젝트를 수행해왔습니다. 작은 팀에서 여러 역할을 주도적으로 소화하며 성장해왔고, 항상 더 나은 코드를 고민합니다.
   <br><br>
 
-  취미: <mark>개발</mark> and <mark>공부</mark> and <mark>마라탕 먹기</mark>
+  취미: <mark>개발</mark> and <mark>공부</mark> and <mark>운동</mark>
 
 content:
   - title: Work Expeirence # Title for the section
@@ -147,13 +147,16 @@ content:
         </div>   
         <br>
 
-        - **가위바위보 콘솔게임**
+
+        - **숫자퍼즐 콘솔게임**
         <mark>C++</mark> <br>
         <a href="https://github.com/yangyanghyunjung/rockPaperScissors.git">source code</a>
         <div style="text-align: center;">
-          <img src="images/RocScissorPaper.gif" alt="가위바위보 이미지" style="display: block; margin: auto;">
+          <img src="images/NumberPuzzle.gif" alt="숫자퍼즐 이미지" style="display: block; margin: auto;">
         </div>   
         <br>
+        
+      
 
         - **big number 계산기**
         <mark>C#</mark> <mark>Vue.js</mark>  
