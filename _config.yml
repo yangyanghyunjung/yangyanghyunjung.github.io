@@ -147,11 +147,13 @@ content:
         </div>   
         <br>
 
-        - **big number 계산기**
+        - **string-based big number calculator**
+        <a href="https://github.com/yangyanghyunjung/String-Based-Calculator.git">source code</a>
         <mark>C#</mark> <mark>.Net</mark> <mark>web form</mark>  
         <div style="text-align: center;">
           <img src="images/BigNumberCalculatorMain.gif" alt="계산기 이미지" style="display: block; margin: auto;">
-        </div>
+        </div>   
+
 
         - **숫자퍼즐 콘솔게임**
         <mark>C++</mark> <br>
